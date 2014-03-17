@@ -1,0 +1,1 @@
+{"status":400,"body":"[[\"PaymentTransaction\",\"PaymentTransaction is required.\"],[\"OriginID\",\"Route is not available to sale with this conditions.\"]]"}

@@ -1,0 +1,19 @@
+{
+	"name": "dalvaren/polonus",
+    "description":"PHP API Polonus Client",
+    "keywords":["polonus","api","client"],
+    "type":"library",
+    "authors":[
+        {
+            "name":"Daniel Campos",
+        }
+    ],
+    "require": {
+        "guzzle/guzzle": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
